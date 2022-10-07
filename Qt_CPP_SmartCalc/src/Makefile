@@ -63,13 +63,6 @@ clean:
 	@rm -rf ./report *.dSYM ./SmartCalc_2_tar ./Build ./App
 	@rm -rf ./manual *.dSYM
 
-cppcheck:
-	@cppcheck --enable=all --suppress=missingInclude  --std=c++17 --language=c++ $(CHECK_FILES)
-
-linter:
-	@cp ../materials/linters/CPPLINT.cfg CPPLINT.cfg
-	@python3 ../materials/linters/cpplint.py --extensions=cpp $(CHECK_FILES)  
-
 leaks: test
 	@CK_FORK=no leaks --atExit -- ./s21_smartCalc_test
 	@make clean
