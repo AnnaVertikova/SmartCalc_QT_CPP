@@ -1,0 +1,16 @@
+\input texinfo
+@c %**start of header
+@c %**end of header
+
+@settitle SmartCalc_2 User's Manual
+
+It's simple. Just push buttons.
+
+If you have any question -  contact me anyhow.
+
+Enjoy!
+
+
+Bdupp.
+
+@bye
