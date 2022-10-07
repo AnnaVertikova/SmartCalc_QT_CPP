@@ -12,6 +12,12 @@ I worked on it on Ubuntu. The projects builds and runs well on other OS, the onl
 Of course, the code is not an ideal one and nowadays I'm surelly able to see some things that could be done in a better way:)
 But I'd rather leave it as it is for now to trace my code progress.
 
+- Use `make install` command to install SmartCalc. You'll find the app in App folder inside the project. 
+  (Perhaps, your OS will need some additional libraries to be installed).
+- Use `make uninstall` command to uninstall SmartCalc app.
+
+And please don't use this calculator for serious math research:) 
+
 Thank you for your interest!
 
 
