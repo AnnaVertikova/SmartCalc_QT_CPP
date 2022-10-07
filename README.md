@@ -1,8 +1,8 @@
-# SmartCalc_Qt_CPP
+
 
 # SmartCalc v2.0
 
-Implementation of SmartCalc v2.0 with opportunity of plotting a algebraic function graph and a credit calculator as a bonus part of the task.
+Implementation of calculator with opportunity of plotting an algebraic function graph and a credit calculator as a bonus part of the task.
 
 This is an individual educational project developed by me at School 21.
 It's my first attempt to use MVC pattern.
