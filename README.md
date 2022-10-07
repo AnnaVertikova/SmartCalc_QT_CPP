@@ -7,8 +7,12 @@ Implementation of SmartCalc v2.0 with opportunity of plotting a algebraic functi
 This is an individual educational project developed by me at School 21.
 It's my first attempt to use MVC pattern.
 
-Of course, it's not an ideal one and nowadays I'm surelly able to see some things that could be done in a better way:)
+I worked on it on Ubuntu. The projects builds and runs well on other OS, the only issue is that the interface sometimaes looks different and not so beautifull it meant to be:)
+
+Of course, the code is not an ideal one and nowadays I'm surelly able to see some things that could be done in a better way:)
 But I'd rather leave it as it is for now to trace my code progress.
+
+Thank you for your interest!
 
 
 ## Here is some of requirements given me for this project:
